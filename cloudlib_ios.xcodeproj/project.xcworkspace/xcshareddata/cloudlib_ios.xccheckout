@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>886488F9-82BD-4F62-8689-7D86E660760D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>cloudlib_ios</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3F0EE2461E61F313915C92136800B10FE5DCABC8</key>
+		<string>https://github.com/jinzhaopo/cloudlib_ios.git</string>
+		<key>6f3e8ba4-be77-11e5-8226-cf232752cd37++7097</key>
+		<string>svn://192.168.1.9/usr/svn/repos/cloudlib_ios</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>cloudlib_ios.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3F0EE2461E61F313915C92136800B10FE5DCABC8</key>
+		<string>../..%2011.10.54</string>
+		<key>6f3e8ba4-be77-11e5-8226-cf232752cd37++7097</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>6f3e8ba4-be77-11e5-8226-cf232752cd37++7097</key>
+		<string>svn://192.168.1.9</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://192.168.1.9/usr/svn/repos/cloudlib_ios/cloudlib_ios.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6f3e8ba4-be77-11e5-8226-cf232752cd37++7097</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6f3e8ba4-be77-11e5-8226-cf232752cd37++7097</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cloudlib_ios</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3F0EE2461E61F313915C92136800B10FE5DCABC8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cloudlib_ios%2011.10.54</string>
+		</dict>
+	</array>
+</dict>
+</plist>
